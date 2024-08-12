@@ -1,5 +1,5 @@
 {
-    "name": "dss/module-microsoft-clarity",
+    "name": "dss/m2-microsoft-clarity",
     "description": "Module that enables your site to integrate with Microsoft's Clarity, a web analytics/behaviour monitoring platform",
     "type": "magento2-module",
     "version": "0.0.1",
