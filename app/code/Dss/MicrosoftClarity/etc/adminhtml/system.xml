@@ -17,7 +17,7 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
-        <section id="microsoft_clarity" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10"
+        <section id="microsoftclarity" showInDefault="1" showInStore="1" showInWebsite="1" sortOrder="10"
             translate="label">
             <label>Microsoft Clarity</label>
             <tab>dss</tab>
@@ -44,7 +44,7 @@
                     <comment>Paste the tracking code from your Microsoft Clarity account</comment>
                 </field>
                 <depends>
-                    <field id="microsoft_clarity/general/enable">1</field>
+                    <field id="microsoftclarity/general/enable">1</field>
                 </depends>
             </group>
         </section>

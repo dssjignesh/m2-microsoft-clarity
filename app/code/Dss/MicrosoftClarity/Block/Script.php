@@ -30,17 +30,17 @@ class Script extends Template
     /**
      * Feature enabled config path
      */
-    public const XML_MICROSOFT_CLARITY_GENERAL_ENABLE = 'microsoft_clarity/general/enable';
+    public const XML_MICROSOFT_CLARITY_GENERAL_ENABLE = 'microsoftclarity/general/enable';
 
     /**
      * Customer group
      */
-    public const MICROSOFT_CLARITY_CUSTOMER_GROUP_TAG_ENABLE = 'microsoft_clarity/general/customer_group_tag_enable';
+    public const MICROSOFT_CLARITY_CUSTOMER_GROUP_TAG_ENABLE = 'microsoftclarity/general/customer_group_tag_enable';
 
     /**
      * Tracking code config path
      */
-    public const XML_MICROSOFT_CLARITY_OPTIONS_TRACKING_CODE = 'microsoft_clarity/options/tracking_code';
+    public const XML_MICROSOFT_CLARITY_OPTIONS_TRACKING_CODE = 'microsoftclarity/options/tracking_code';
 
     /**
      * Script constructor.
