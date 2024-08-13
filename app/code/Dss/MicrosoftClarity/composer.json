@@ -1,0 +1,22 @@
+{
+    "name": "dss/m2-microsoft-clarity",
+    "description": "Module that enables your site to integrate with Microsoft's Clarity, a web analytics/behaviour monitoring platform",
+    "type": "magento2-module",
+    "version": "0.0.1",
+    "license": [
+        "MIT"
+    ],
+    "require": {
+        "php": "^8.1",
+        "magento/product-community-edition": "^2.4.5",
+        "dss/m2-core": "^0.0.1"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Dss\\MicrosoftClarity\\": ""
+        }
+    }
+}
